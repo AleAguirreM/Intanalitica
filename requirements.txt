@@ -1,8 +1,5 @@
-pandas
-plotly
+numpy
 streamlit
-datetime
-openpyxl
-Pydeck
-
+pandas as pd
+plotly
 
